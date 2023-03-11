@@ -1,0 +1,18 @@
+{
+  "name": "learn-jscodeshift",
+  "repository": "git@github.com:wakamsha/learn-jscodeshift.git",
+  "author": "wakamsha <wakamsha@gmail.com>",
+  "engines": {
+    "node": "18.14.2",
+    "yarn": "3.4.1",
+    "npm": "please use yarn instead"
+  },
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "jscodeshift": "0.14.0"
+  },
+  "devDependencies": {
+    "@types/jscodeshift": "0.11.6",
+    "typescript": "4.9.5"
+  }
+}
